@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">SessionManager</string>
+    <string name="account_type">sessionmanager</string>
+</resources>
